@@ -1,2 +1,2 @@
-## Xpression
+## Xpression.
 #A MERN STACK APLLICATION
